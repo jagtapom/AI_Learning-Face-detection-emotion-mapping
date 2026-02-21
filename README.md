@@ -19,20 +19,20 @@ Professional local Streamlit application for:
 ## Setup
 
 ```bash
-cd /Users/bhagyashreemarne/Omkar_Python/facingdetection
+cd /Users/Omkar_Python/facingdetection
 python3 -m pip install -r requirements.txt
 ```
 
 ## Run
 
 ```bash
-streamlit run /Users/bhagyashreemarne/Omkar_Python/facingdetection/app.py
+streamlit run /Users/Omkar_Python/facingdetection/app.py
 ```
 
 If `streamlit` command is missing:
 
 ```bash
-python3 -m streamlit run /Users/bhagyashreemarne/Omkar_Python/facingdetection/app.py
+python3 -m streamlit run /Users/Omkar_Python/facingdetection/app.py
 ```
 
 ## Usage
